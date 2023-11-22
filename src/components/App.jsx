@@ -39,7 +39,7 @@ export default class App extends Component {
           />
         </Section>
 
-        <Section title="Statistics">
+        <Section title="Statistics ">
           {showStatistics ? (
             <Statistics
               good={good}
